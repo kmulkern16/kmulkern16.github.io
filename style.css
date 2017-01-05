@@ -8,3 +8,21 @@ body {
   width: 960px;
   margin: 20px auto 20px auto;
 }
+h1 {
+  color: blue;
+}
+h1 {
+  color: green;
+}
+h4 {
+  color: purple;
+}
+#summary {
+  color: green;
+}
+h4 {
+    color: #00BCD4;
+}
+#src {
+  width: 180px
+}
