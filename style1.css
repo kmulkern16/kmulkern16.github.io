@@ -1,0 +1,48 @@
+body {
+  background-image: url(http://cdn.homesthetics.net/wp-content/uploads/2013/10/17-Inspiring-Wonderful-Black-and-White-Contemporary-Interior-Designs-Homesthetics-161.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background text: center;
+}
+.navbar {
+  background-color: #222;
+  padding: 10px 0;
+}
+.navbar-custom .navbar-brand {
+  color: #fed136;
+  font-family: 'IM Fell French Canon', serif;
+  font-size: 2em;
+}
+.jumbotron {
+  background-color: transparent;
+  text-align: center;
+}
+.container .intro-text {
+  color: #fed136;
+  font-family: 'IM Fell French Canon', serif;
+  font-size: 150px;
+}
+.container .second-text {
+  color: white;
+  font-size: 25px;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.vertical-center {
+  min-height: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+.btn {
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.btn:hover {
+  background-color: #fed136;
+  color: black;
+}
+mark {
+  background-color: white;
+  color: black;
+}

@@ -1,0 +1,35 @@
+body {
+  background-image: url(https://images6.alphacoders.com/423/423653.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background text: center;
+}
+body {
+  padding-top: 120px;
+}
+#contact {
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  color: white;
+}
+.section-heading {
+  font-size: 55px;
+}
+address {
+  color: white;
+  font-size: 20px;
+}
+.navbar {
+  background-color: #222;
+  padding: 10px 0;
+}
+.navbar-custom .navbar-brand {
+  color: #fed136;
+  font-family: 'IM Fell French Canon', serif;
+  font-size: 2em;
+}
+a:link {
+  color: white;
+}
+a:hover {
+  color: #fed136;
+}
