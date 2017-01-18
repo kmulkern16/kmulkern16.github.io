@@ -3,6 +3,9 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background text: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 body {
   padding-top: 120px;
